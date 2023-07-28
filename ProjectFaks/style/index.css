@@ -1,0 +1,45 @@
+.image{
+    max-height: 250px;
+}
+.imagecont{
+    height: 250px;
+}
+.maintitle{
+    text-align: center;
+    font-family: "Pacifico",Verdana;
+}
+.title{
+    font-weight: bolder;
+    padding:0;
+}
+.line{
+    background-color: black;
+    height: 5px;
+    width:100%;
+}
+.articles{
+    padding:0;
+    border-top: solid;
+    border-color: rgba(134, 134, 134, 0.5);
+    border-width: 1px;
+}
+.article-title{
+    font-weight: bold;
+}
+.article{
+    width:350px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:5px;
+    margin:0px;
+}
+.article:hover{
+    background-color: gray;
+}
+.btn-custom-article {
+    background-color: white;
+    border-color: transparent;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+}

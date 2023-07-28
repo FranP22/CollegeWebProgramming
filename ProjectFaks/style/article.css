@@ -1,0 +1,29 @@
+.maintitle{
+    text-align: center;
+    font-family: "Pacifico";
+}
+.article-detail{
+    padding:0;
+    border-top: solid;
+    border-color: rgba(134, 134, 134, 0.5);
+    border-width: 1px;
+    width:100%;
+}
+.article-inner{
+    width:100%;
+    word-wrap: break-word;
+    max-width: 1000px;
+}
+.article-detail-image{
+    max-height: 500px;
+}
+.article-detail-title{
+    font-size: xx-large;
+}
+.article-detail-date{
+    color: gray;
+    font-size: smaller;
+}
+.article-detail-summary{
+    font-weight: bold;
+}
